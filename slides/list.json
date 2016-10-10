@@ -1,10 +1,14 @@
 [
     "index.md",
-    "http-history.html",
-    "spdy.html",
-    "spdy-die.html",
-    "spdy-die-2.html",
-    "caniusehttp2.html",
+    [
+        "history/http-history.html",
+        "history/spdy.html",
+        "history/spdy-die.html",
+        "history/spdy-die-2.html",
+        "history/caniusehttp2.html"
+    ],
+    [
+        "http2theory/ishttp2ready.html"
+    ],
     "end.html"
-
 ]
