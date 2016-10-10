@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Myth busters - HTTP/2 and web performance",
+    "packageVersion": "0.0.0",
+    "revealTheme": "blood",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ptrstpp950",
+    "githubRepository": "http2AndWebPerf"
+  }
+}
