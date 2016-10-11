@@ -4,11 +4,16 @@
         "history/http-history.html",
         "history/spdy.html",
         "history/spdy-die.html",
-        "history/spdy-die-2.html",
-        "history/caniusehttp2.html"
+        "history/spdy-die-2.html"
     ],
     [
-        "http2theory/ishttp2ready.html"
+        "http2theory/ishttp2ready.html",
+        "http2theory/caniusehttp2.html",
+        "http2theory/righthere.html",
+        "http2theory/latency.html",
+        "http2theory/definition.html",
+        "http2theory/definition.1.html"
+        
     ],
     "end.html"
 ]
