@@ -1,0 +1,20 @@
+<h2>Rule 8 - Make JavaScript and CSS External</h2>
+<p>This rule is not always true for HTTP 1.1:
+	<ul>
+		<li>Parallelism workaround for HTTP/1.x</li>
+		<li>Eliminates full request roundtrip </li>
+	</ul>
+	but:
+	<ul>
+		<li>Complicates our workflows, code and applications</li>
+		<li>Breaks granular caching, updates, and revalidation</li>
+		<li>Forces frequent and expensive invalidations</li>
+	</ul>
+</p>
+<ul>
+    <li>HTTP 1.x - It depends</li>
+    <li>HTTP 2.x - Yes with server push</li>
+</ul>
+<aside class="notes">
+
+</aside>
