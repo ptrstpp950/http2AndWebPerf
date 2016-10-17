@@ -37,11 +37,6 @@
         "perf-rules/xx.08.external.html"
     ],
     [
-        "perf-rules-changes/01.sum-up.html",
-        "perf-rules-changes/02.i-dont-want-http2.html",
-        "perf-rules-changes/03.setup-iis.html"
-    ],
-    [
         "more-perf-stuff/01.more.html",
         "more-perf-stuff/02.css.html",
         "more-perf-stuff/03.html.html",
@@ -49,5 +44,11 @@
         "more-perf-stuff/05.webp.html",
         "more-perf-stuff/06.flif.html"
     ],
+    [
+        "perf-rules-changes/01.sum-up.html",
+        "perf-rules-changes/02.i-dont-want-http2.html",
+        "perf-rules-changes/03.setup-iis.html"
+    ],
+    
     "end.html"
 ]
