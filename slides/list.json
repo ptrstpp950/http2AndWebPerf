@@ -1,21 +1,24 @@
 [
     "index.md",
     [
-        "history/http-history.html",
-        "history/spdy.html",
-        "history/spdy-die.html",
-        "history/spdy-die-2.html"
+        "history/1.intro.html",
+        "history/2.http-history.html",
+        "history/3.spdy.html",
+        "history/4.spdy-die.html",
+        "history/5.spdy-die-2.html"
     ],
     [
-        "http2theory/ishttp2ready.html",
-        "http2theory/caniusehttp2.html",
-        "http2theory/righthere.html",
-        "http2theory/latency.html",
-        "http2theory/definition.html",
-        "http2theory/definition.1.html"
+        "http2theory/0.intro.html",
+        "http2theory/1.ishttp2ready.html",
+        "http2theory/2.caniusehttp2.html",
+        "http2theory/3.righthere.html",
+        "http2theory/4.latency.html",
+        "http2theory/5.definition.html",
+        "http2theory/6.definition.1.html"
     ],
     [
         "perf-rules/00.all-rules.html",
+        "perf-rules/00.all-rules.1.html",
         "perf-rules/01.fewer-http-requests.html",
         "perf-rules/02.use-cdn.html",
         "perf-rules/03.13.14.expire-header_etag_ajax-cache.html",
