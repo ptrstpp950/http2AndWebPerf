@@ -13,7 +13,25 @@
         "http2theory/latency.html",
         "http2theory/definition.html",
         "http2theory/definition.1.html"
-        
+    ],
+    [
+        "perf-rules/00.all-rules.html",
+        "perf-rules/01.fewer-http-requests.html",
+        "perf-rules/02.use-cdn.html",
+        "perf-rules/03.13.14.expire-header_etag_ajax-cache.html",
+        "perf-rules/04.gzip-hpack.1.html",
+        "perf-rules/04.gzip-hpack.2.html",
+        "perf-rules/04.gzip-hpack.3.html",
+        "perf-rules/04.gzip-hpack.4.html",
+        "perf-rules/04.gzip-hpack.5.html",
+        "perf-rules/05.06.07.rendering.html",
+        "perf-rules/08.skiprule.html",
+        "perf-rules/09.dnslookups.html",
+        "perf-rules/xx.01.reuse-tcp.html",
+        "perf-rules/xx.08.external.2.html",
+        "perf-rules/xx.08.external.3.html",
+        "perf-rules/xx.08.external.4.html",
+        "perf-rules/xx.08.external.html"
     ],
     "end.html"
 ]
