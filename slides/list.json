@@ -33,7 +33,8 @@
         "perf-rules/xx.08.external.html",
         "perf-rules/xx.08.external.2.html",
         "perf-rules/xx.08.external.3.html",
-        "perf-rules/xx.08.external.4.html"
+        "perf-rules/xx.08.external.4.html",
+        "perf-rules/xx.08.external.5.html"
     ],
     [
         "more-perf-stuff/00.intro.html",
@@ -41,6 +42,7 @@
         "more-perf-stuff/02.css.html",
         "more-perf-stuff/03.html.html",
         "more-perf-stuff/04.images.html",
+        "more-perf-stuff/04.images.1.html",
         "more-perf-stuff/05.webp.html",
         "more-perf-stuff/06.flif.html"
     ],
