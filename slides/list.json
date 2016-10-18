@@ -1,7 +1,6 @@
 [
-    "index.md",
+    "index.html",
     [
-        "history/1.intro.html",
         "history/2.http-history.html",
         "history/3.spdy.html",
         "history/4.spdy-die.html",
