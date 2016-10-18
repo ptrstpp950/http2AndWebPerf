@@ -1,7 +1,7 @@
 [
     "index.html",
     [
-        "history/1.http-history.html",
+        "history/2.http-history.html",
         "history/2.demo.html",
         "history/3.spdy.html",
         "history/4.spdy-die.html",
@@ -51,7 +51,9 @@
         "perf-rules-changes/00.intro.html",
         "perf-rules-changes/01.sum-up.html",
         "perf-rules-changes/02.i-dont-want-http2.html",
-        "perf-rules-changes/03.setup-iis.html"
+        "perf-rules-changes/03.setup-iis.html",
+        "perf-rules-changes/04.setup-development.html",
+        "perf-rules-changes/05.final-sumup.html"
     ],
     
     "end.html"
